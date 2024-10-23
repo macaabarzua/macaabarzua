@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **macaabarzua/macaabarzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Banner](https://github.com/user-attachments/assets/9194ca57-32df-4758-9caf-b40f62e709e8)
