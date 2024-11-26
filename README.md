@@ -26,7 +26,7 @@ Disfrutando de una transición laboral al Data Analytics. Soy una apasionada del
 
 * :telescope: Trabajar en el sector retail y las ventas, generó mi interés por el análisis de datos :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: SQL y Python, sin dejar de lado herramientas de visualización
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: SQL, Python, Tableau y Power BI
 
 * :heartbeat: Me encantan los desafíos
 
