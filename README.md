@@ -1,8 +1,7 @@
 ![Banner (3)](https://github.com/user-attachments/assets/a70d7525-a74a-4ee3-aa58-b82247b0a9ce)
 <!--
 **macaabarzua/macaabarzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Ban![Banner (3)](https://github.com/user-attachments/assets/a6d96811-8a4d-4cfb-b461-24e1fcf2491c)
-ner](https://github.com/user-attachments/assets/9194ca57-32df-4758-9caf-b40f62e709e8)
+![Banner (3)](https://github.com/user-attachments/assets/a6d96811-8a4d-4cfb-b461-24e1fcf2491c)
 -->
 
 <div id="header" align="center">
