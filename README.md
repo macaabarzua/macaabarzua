@@ -5,7 +5,7 @@
 -->
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/9194ca57-32df-4758-9caf-b40f62e709e8" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/a70d7525-a74a-4ee3-aa58-b82247b0a9ce" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macarena-abarzua-ordenes-/)
