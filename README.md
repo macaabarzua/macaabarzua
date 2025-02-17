@@ -24,11 +24,11 @@
 
 Disfrutando de una transición laboral al Data Analytics. Soy una apasionada del aprendizaje. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Trabajar en el sector retail y las ventas, generó mi interés por el análisis de datos :muscle:
+* :telescope: Trabajar en ventas y retail generó mi interés por el análisis de datos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: SQL, Python, Tableau y Power BI
 
-* :heartbeat: Me encantan los desafíos
+* :heartbeat: Me encantan los desafíos, logro lo que me propongo ;)
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Macarena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/macarena-abarzua-ordenes-/)
 
