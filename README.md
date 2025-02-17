@@ -42,7 +42,7 @@ Disfrutando de una transición laboral al Data Analytics. Soy una apasionada del
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="tableau"/>
   </a>
 
 </div>
